@@ -1,6 +1,9 @@
 # Lost-Boys-Interactive
 Summer Internship from May 2021-August 2021
 
+https://drive.google.com/file/d/1BizLfsQR_NNaPmF4ho5urwueO8MmLIp0/view?usp=sharing </br>
+https://drive.google.com/file/d/1bz3euRhIKMYrrQ6ABfY-W2UzBdaYZYmU/view?usp=sharing </br>
+
 Over the past summer, I became familiar with Unreal Engine 4. As a Junior Programmer at LBI, I began the summer testing and creating a boot camp/ramp up program that experienced engineers/other junior programmers would be able to use to quickly learn UE4. 
 This took the form of a Tower Defense game; many parts of the engine (animations, UI, Niagara Effects, landscapes, splines/paths, Blueprints vs. C++, etc.) were required to create the game, and it was my job to figure them out, explain them, and publish a page with details (sadly I cannot post these to the public) for others to read, follow along with, and use as references. 
 Once the program was built up to the company's liking, I learned the C++ side of the engine a little more through Tom Looman's tutorials (this led to the creation of the FPS/Stealth game as well as the Co-op game). 
