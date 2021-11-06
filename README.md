@@ -10,3 +10,4 @@ As a premise, the player would run through the maze to find different objects (c
 During their adventure, the maze would serialize itself with instanced static meshes that can easily be created and destroyed (these would be the floors and walls the player would see) so that the game will efficiently run while retaining its maze shape and important location information.
 I was able to get the maze fully working (maze shape, loading in/out) and one of the locations (the monster field) fully implemented as well (see project for details).
 The inventory system is a work in progress, but I was able to implement picking up objects and storing them for the most part.
+SEE DIFFERENT BRANCHES FOR FILES/VIDEOS!!
